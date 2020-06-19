@@ -1,5 +1,5 @@
 # Online-store
-Online Store with all the features (catalog, basket, product sections, home delivery, etc.)
+Online Store with all the features (catalog, basket, product sections, home delivery)
 Программное обеспечение Интернет-магазина.
 Интернет-магазин позволяет делать покупки с доставкой на дом. Клиенты магазина при 
 помощи программы- браузера имеют доступ к каталогу продаваемых товаров, поддержку кото-
