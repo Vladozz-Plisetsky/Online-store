@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Новая папка (2)\OnlineStore\Glados\bin\Debug\Glados.exe.config
+C:\Users\admin\Desktop\Новая папка (2)\OnlineStore\Glados\bin\Debug\Glados.exe
+C:\Users\admin\Desktop\Новая папка (2)\OnlineStore\Glados\bin\Debug\Glados.pdb
+C:\Users\admin\Desktop\Новая папка (2)\OnlineStore\Glados\obj\Debug\OnlineStore.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Новая папка (2)\OnlineStore\Glados\obj\Debug\Glados.Bascet.resources
+C:\Users\admin\Desktop\Новая папка (2)\OnlineStore\Glados\obj\Debug\Glados.Catalog.resources
+C:\Users\admin\Desktop\Новая папка (2)\OnlineStore\Glados\obj\Debug\Glados.Form1.resources
+C:\Users\admin\Desktop\Новая папка (2)\OnlineStore\Glados\obj\Debug\Glados.Properties.Resources.resources
+C:\Users\admin\Desktop\Новая папка (2)\OnlineStore\Glados\obj\Debug\Glados.Sell.resources
+C:\Users\admin\Desktop\Новая папка (2)\OnlineStore\Glados\obj\Debug\OnlineStore.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Новая папка (2)\OnlineStore\Glados\obj\Debug\OnlineStore.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Новая папка (2)\OnlineStore\Glados\obj\Debug\Glados.exe
+C:\Users\admin\Desktop\Новая папка (2)\OnlineStore\Glados\obj\Debug\Glados.pdb
